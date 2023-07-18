@@ -13,6 +13,13 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 🛢 &nbsp;
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+
+  <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-SantiagoV-dodgerblue"></a>
+<a href="https://www.instagram.com/santiagovm18/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-Santiago-blue?style=flat-square&logo=instagram"></a>
+<a href="santiagov801@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-santiagov801@gmail.com-blue?style=flat-square&logo=gmail"></a>
+</p>
 -->
 <h2> Hey there! I'm Edison Restrepo.</h2>
 
@@ -37,8 +44,10 @@ Here are some ideas to get you started:
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-- 🛢 &nbsp;
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+  ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=Java&logoColor=white)
+  ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=Spring%20Boot&logoColor=white)
+
+
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
@@ -48,21 +57,17 @@ Here are some ideas to get you started:
 - 🖥 &nbsp;
 
  
-
 <br/>
 
  
-
 <a href="https://github.com/EdiRestrepo">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EdiRestrepo&theme=buefy&show_icons=true" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdiRestrepo&theme=buefy&layout=compact" />
 </a>
 
- 
 
 <br/>
 
- 
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
@@ -70,7 +75,4 @@ Here are some ideas to get you started:
 
 <p align="center">
 <a href="https://EdiRestrepo.github.io/"><img alt="Website" src="https://img.shields.io/badge/Website-https://EdiRestrepo.github.io/-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/santiago-velasquez-426719243/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-SantiagoV-dodgerblue"></a>
-<a href="https://www.instagram.com/santiagovm18/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-Santiago-blue?style=flat-square&logo=instagram"></a>
-<a href="santiagov801@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-santiagov801@gmail.com-blue?style=flat-square&logo=gmail"></a>
-</p>
+<a href="https://www.linkedin.com/in/edisonestivalrestrepoospina/">
